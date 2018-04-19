@@ -17,5 +17,5 @@ Graph of actual values (red) vs predicted values (blue)
 <img width="496" alt="trainingdata_vs_predicted" src="https://user-images.githubusercontent.com/20684819/38905774-b740e2be-4280-11e8-833e-5eb27cd8e77c.png">
 </br>
 </br>
-Graph of cost function after each iteration
+Graph of cost function
 <img width="512" alt="plot of cost function" src="https://user-images.githubusercontent.com/20684819/38905779-bb342188-4280-11e8-9d38-3987947c5320.png">
